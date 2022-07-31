@@ -1,2 +1,3 @@
-# rust-book-examples
-Example of small tutorial projects in Rust taken from the "book" 
+# Rust Examples from the Book
+
+These are the examples worked out from the "book" split into chapters. On each example there are references to other chapters to better understand the contenct of this amazing beginners tutorial to Rust bible. 
