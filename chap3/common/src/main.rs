@@ -2,7 +2,7 @@ use std::io;
 
 fn main(){
 
-    // mutability
+    // variables and mutability
     let mut x = 5;
     println!("The value of x is {x}");
 
@@ -80,7 +80,6 @@ fn main(){
     let six_point_four = x.1;
     let one = x.2;
     println!("tup is ({five_hundred},{six_point_four},{one})");
-
 
 
     // array types
