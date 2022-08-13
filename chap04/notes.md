@@ -16,5 +16,10 @@ heap = less organised working memory requiring allocation
 
 ## References and Borrowing
 
-
 ## The Slice Type
+
+
+## Summary
+
+Concept of ownership, borrowing and slices ensure memory
+safety in Rust programs at compile time!!!
